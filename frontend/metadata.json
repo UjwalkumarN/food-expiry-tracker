@@ -1,0 +1,7 @@
+{
+  "name": "FreshGuard - Smart Food Tracker",
+  "description": "A comprehensive food inventory management system with barcode scanning, expiry alerts, and AI-powered recipe suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

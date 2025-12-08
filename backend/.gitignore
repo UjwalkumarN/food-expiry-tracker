@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# Logs
+logs/
+*.log
+
+# Editor specific
+.vscode/
+.idea/
+.history/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
